@@ -38,12 +38,12 @@ const availableCategories = [
   Category(
     id: 'c7',
     title: 'Breakfast',
-    color: Colors.lightBlue,
+    color: Colors.lightGreen,
   ),
   Category(
     id: 'c8',
     title: 'Asian',
-    color: Colors.lightGreen,
+    color: Colors.indigoAccent,
   ),
   Category(
     id: 'c9',
